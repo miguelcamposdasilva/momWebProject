@@ -48,7 +48,7 @@ export default function PoliticaPrivacidad() {
             <p>
               Este sitio web es operado por una ejecutiva de ventas independiente que comercializa
               sepulturas y servicios funerarios en Chile, en representación de parques cementerios
-              autorizados. El sitio web es <strong style={{ color: 'var(--texto-principal)' }}>www.cotizasepulturasparques.cl</strong>.
+              autorizados. El sitio web es <strong style={{ color: 'var(--texto-principal)' }}>www.tuparquecementerio.cl</strong>.
             </p>
             <p>
               Para consultas relacionadas con esta política, puede contactarnos a través del número

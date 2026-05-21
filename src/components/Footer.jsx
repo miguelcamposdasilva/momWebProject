@@ -60,6 +60,15 @@ export default function Footer() {
                 }}>
                 💬 WhatsApp directo
               </a>
+              <a
+                href="mailto:contacto@tuparquecementerio.cl"
+                style={{
+                  color: 'var(--crema)',
+                  fontSize: '0.875rem',
+                  display: 'flex', alignItems: 'center', gap: '8px',
+                }}>
+                📩contacto@tuparquecementerio.cl
+              </a>
             </div>
           </div>
 
